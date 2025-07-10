@@ -1,0 +1,122 @@
+[
+{
+  "directory": "/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/build",
+  "command": "/home/yajianz/tools/gcc-linaro-5.3.1-2016.05-x86_64_arm-linux-gnueabi/bin/arm-linux-gnueabi-gcc   -std=gnu99 -I/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/utils -I/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/.    -o CMakeFiles/client.dir/test/client.c.o   -c /home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/test/client.c",
+  "file": "/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/test/client.c"
+},
+{
+  "directory": "/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/build",
+  "command": "/home/yajianz/tools/gcc-linaro-5.3.1-2016.05-x86_64_arm-linux-gnueabi/bin/arm-linux-gnueabi-gcc   -std=gnu99 -I/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/utils -I/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/.    -o CMakeFiles/client.dir/utils/utils.c.o   -c /home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/utils/utils.c",
+  "file": "/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/utils/utils.c"
+},
+{
+  "directory": "/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/build",
+  "command": "/home/yajianz/tools/gcc-linaro-5.3.1-2016.05-x86_64_arm-linux-gnueabi/bin/arm-linux-gnueabi-gcc   -std=gnu99 -I/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/utils -I/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/.    -o CMakeFiles/client.dir/utils/debug.c.o   -c /home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/utils/debug.c",
+  "file": "/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/utils/debug.c"
+},
+{
+  "directory": "/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/build",
+  "command": "/home/yajianz/tools/gcc-linaro-5.3.1-2016.05-x86_64_arm-linux-gnueabi/bin/arm-linux-gnueabi-gcc   -std=gnu99 -I/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/utils -I/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/.    -o CMakeFiles/client.dir/sockets/socket.c.o   -c /home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/sockets/socket.c",
+  "file": "/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/sockets/socket.c"
+},
+{
+  "directory": "/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/build",
+  "command": "/home/yajianz/tools/gcc-linaro-5.3.1-2016.05-x86_64_arm-linux-gnueabi/bin/arm-linux-gnueabi-gcc   -std=gnu99 -I/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/utils -I/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/.    -o CMakeFiles/fcm-test.dir/test/fcm-test.c.o   -c /home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/test/fcm-test.c",
+  "file": "/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/test/fcm-test.c"
+},
+{
+  "directory": "/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/build",
+  "command": "/home/yajianz/tools/gcc-linaro-5.3.1-2016.05-x86_64_arm-linux-gnueabi/bin/arm-linux-gnueabi-gcc   -std=gnu99 -I/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/utils -I/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/.    -o CMakeFiles/fcm-test.dir/utils/utils.c.o   -c /home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/utils/utils.c",
+  "file": "/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/utils/utils.c"
+},
+{
+  "directory": "/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/build",
+  "command": "/home/yajianz/tools/gcc-linaro-5.3.1-2016.05-x86_64_arm-linux-gnueabi/bin/arm-linux-gnueabi-gcc   -std=gnu99 -I/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/utils -I/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/.    -o CMakeFiles/fcm-test.dir/utils/debug.c.o   -c /home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/utils/debug.c",
+  "file": "/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/utils/debug.c"
+},
+{
+  "directory": "/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/build",
+  "command": "/home/yajianz/tools/gcc-linaro-5.3.1-2016.05-x86_64_arm-linux-gnueabi/bin/arm-linux-gnueabi-gcc   -std=gnu99 -I/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/utils -I/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/.    -o CMakeFiles/fcm-test.dir/sockets/socket.c.o   -c /home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/sockets/socket.c",
+  "file": "/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/sockets/socket.c"
+},
+{
+  "directory": "/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/build",
+  "command": "/home/yajianz/tools/gcc-linaro-5.3.1-2016.05-x86_64_arm-linux-gnueabi/bin/arm-linux-gnueabi-gcc   -std=gnu99 -I/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/utils -I/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/.    -o CMakeFiles/fcm-test.dir/sockets/socket_client.c.o   -c /home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/sockets/socket_client.c",
+  "file": "/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/sockets/socket_client.c"
+},
+{
+  "directory": "/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/build",
+  "command": "/home/yajianz/tools/gcc-linaro-5.3.1-2016.05-x86_64_arm-linux-gnueabi/bin/arm-linux-gnueabi-gcc   -std=gnu99 -I/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/utils -I/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/.    -o CMakeFiles/fcm-test.dir/hardwares/de20x/fcm/fcm.c.o   -c /home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/hardwares/de20x/fcm/fcm.c",
+  "file": "/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/hardwares/de20x/fcm/fcm.c"
+},
+{
+  "directory": "/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/build",
+  "command": "/home/yajianz/tools/gcc-linaro-5.3.1-2016.05-x86_64_arm-linux-gnueabi/bin/arm-linux-gnueabi-gcc   -std=gnu99 -I/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/utils -I/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/.    -o CMakeFiles/fcm-test.dir/hardwares/de20x/fcm/constants.c.o   -c /home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/hardwares/de20x/fcm/constants.c",
+  "file": "/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/hardwares/de20x/fcm/constants.c"
+},
+{
+  "directory": "/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/build",
+  "command": "/home/yajianz/tools/gcc-linaro-5.3.1-2016.05-x86_64_arm-linux-gnueabi/bin/arm-linux-gnueabi-gcc   -std=gnu99 -I/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/utils -I/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/.    -o CMakeFiles/pqd.dir/pqdaemon.c.o   -c /home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/pqdaemon.c",
+  "file": "/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/pqdaemon.c"
+},
+{
+  "directory": "/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/build",
+  "command": "/home/yajianz/tools/gcc-linaro-5.3.1-2016.05-x86_64_arm-linux-gnueabi/bin/arm-linux-gnueabi-gcc   -std=gnu99 -I/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/utils -I/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/.    -o CMakeFiles/pqd.dir/pq_core.c.o   -c /home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/pq_core.c",
+  "file": "/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/pq_core.c"
+},
+{
+  "directory": "/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/build",
+  "command": "/home/yajianz/tools/gcc-linaro-5.3.1-2016.05-x86_64_arm-linux-gnueabi/bin/arm-linux-gnueabi-gcc   -std=gnu99 -I/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/utils -I/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/.    -o CMakeFiles/pqd.dir/utils/utils.c.o   -c /home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/utils/utils.c",
+  "file": "/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/utils/utils.c"
+},
+{
+  "directory": "/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/build",
+  "command": "/home/yajianz/tools/gcc-linaro-5.3.1-2016.05-x86_64_arm-linux-gnueabi/bin/arm-linux-gnueabi-gcc   -std=gnu99 -I/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/utils -I/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/.    -o CMakeFiles/pqd.dir/utils/debug.c.o   -c /home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/utils/debug.c",
+  "file": "/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/utils/debug.c"
+},
+{
+  "directory": "/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/build",
+  "command": "/home/yajianz/tools/gcc-linaro-5.3.1-2016.05-x86_64_arm-linux-gnueabi/bin/arm-linux-gnueabi-gcc   -std=gnu99 -I/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/utils -I/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/.    -o CMakeFiles/pqd.dir/utils/cmdqueue.c.o   -c /home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/utils/cmdqueue.c",
+  "file": "/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/utils/cmdqueue.c"
+},
+{
+  "directory": "/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/build",
+  "command": "/home/yajianz/tools/gcc-linaro-5.3.1-2016.05-x86_64_arm-linux-gnueabi/bin/arm-linux-gnueabi-gcc   -std=gnu99 -I/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/utils -I/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/.    -o CMakeFiles/pqd.dir/utils/helper.c.o   -c /home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/utils/helper.c",
+  "file": "/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/utils/helper.c"
+},
+{
+  "directory": "/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/build",
+  "command": "/home/yajianz/tools/gcc-linaro-5.3.1-2016.05-x86_64_arm-linux-gnueabi/bin/arm-linux-gnueabi-gcc   -std=gnu99 -I/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/utils -I/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/.    -o CMakeFiles/pqd.dir/pqdata/pqdata.c.o   -c /home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/pqdata/pqdata.c",
+  "file": "/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/pqdata/pqdata.c"
+},
+{
+  "directory": "/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/build",
+  "command": "/home/yajianz/tools/gcc-linaro-5.3.1-2016.05-x86_64_arm-linux-gnueabi/bin/arm-linux-gnueabi-gcc   -std=gnu99 -I/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/utils -I/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/.    -o CMakeFiles/pqd.dir/sockets/socket.c.o   -c /home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/sockets/socket.c",
+  "file": "/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/sockets/socket.c"
+},
+{
+  "directory": "/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/build",
+  "command": "/home/yajianz/tools/gcc-linaro-5.3.1-2016.05-x86_64_arm-linux-gnueabi/bin/arm-linux-gnueabi-gcc   -std=gnu99 -I/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/utils -I/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/.    -o CMakeFiles/pqd.dir/sockets/socket_client.c.o   -c /home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/sockets/socket_client.c",
+  "file": "/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/sockets/socket_client.c"
+},
+{
+  "directory": "/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/build",
+  "command": "/home/yajianz/tools/gcc-linaro-5.3.1-2016.05-x86_64_arm-linux-gnueabi/bin/arm-linux-gnueabi-gcc   -std=gnu99 -I/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/utils -I/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/.    -o CMakeFiles/pqd.dir/hardwares/hardwares.c.o   -c /home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/hardwares/hardwares.c",
+  "file": "/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/hardwares/hardwares.c"
+},
+{
+  "directory": "/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/build",
+  "command": "/home/yajianz/tools/gcc-linaro-5.3.1-2016.05-x86_64_arm-linux-gnueabi/bin/arm-linux-gnueabi-gcc   -std=gnu99 -I/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/utils -I/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/.    -o CMakeFiles/pqd.dir/hardwares/de20x/de20x.c.o   -c /home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/hardwares/de20x/de20x.c",
+  "file": "/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/hardwares/de20x/de20x.c"
+},
+{
+  "directory": "/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/build",
+  "command": "/home/yajianz/tools/gcc-linaro-5.3.1-2016.05-x86_64_arm-linux-gnueabi/bin/arm-linux-gnueabi-gcc   -std=gnu99 -I/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/utils -I/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/.    -o CMakeFiles/pqd.dir/hardwares/de20x/fcm/fcm.c.o   -c /home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/hardwares/de20x/fcm/fcm.c",
+  "file": "/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/hardwares/de20x/fcm/fcm.c"
+},
+{
+  "directory": "/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/build",
+  "command": "/home/yajianz/tools/gcc-linaro-5.3.1-2016.05-x86_64_arm-linux-gnueabi/bin/arm-linux-gnueabi-gcc   -std=gnu99 -I/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/utils -I/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/.    -o CMakeFiles/pqd.dir/hardwares/de20x/fcm/constants.c.o   -c /home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/hardwares/de20x/fcm/constants.c",
+  "file": "/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/hardwares/de20x/fcm/constants.c"
+}
+]

@@ -1,0 +1,3 @@
+/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/build/CMakeFiles/client.dir
+/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/build/CMakeFiles/fcm-test.dir
+/home1/liuchenyang/workspace/ai985/platform/allwinner/display/display/pq/build/CMakeFiles/pqd.dir

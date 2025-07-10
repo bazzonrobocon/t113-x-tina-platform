@@ -1,0 +1,1 @@
+/home/yajianz/tools/gcc-linaro-5.3.1-2016.05-x86_64_arm-linux-gnueabi/bin/arm-linux-gnueabi-gcc  -std=gnu99    CMakeFiles/client.dir/test/client.c.o CMakeFiles/client.dir/utils/utils.c.o CMakeFiles/client.dir/utils/debug.c.o CMakeFiles/client.dir/sockets/socket.c.o  -o client -rdynamic -lpthread -lm 
